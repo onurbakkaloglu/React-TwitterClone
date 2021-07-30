@@ -1,6 +1,6 @@
-# Twitter Clone App
+# Twitter Klon Uygulaması
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+React.js öğrenim sürecinde uyguladığım bir proje.Twitter uygulamasının görüntüsünün aynısını yakalamaya çalıştığım bu projede Firebase veritabanı da kullandım.
 
 ## Available Scripts
 
